@@ -18,3 +18,6 @@ cats.push "Marvin"
 # in cats array "Spatz" is position 0
 # in the ages array 13 is position 2
 
+# this will change all the names to lower case
+cats2 = cats.map {|cat| cat.downcase}
+puts cats2
