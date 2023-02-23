@@ -14,4 +14,7 @@ ages.unshift 13
 
 cats.push "Marvin"
 
+# the position index starts with 0 not one see following examples
+# in cats array "Spatz" is position 0
+# in the ages array 13 is position 2
 
